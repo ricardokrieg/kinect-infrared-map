@@ -1,4 +1,8 @@
-kinect-infrared-map
-===================
+Kinect Infrared Map
+====================
 
-kinect-infrared-map
+Draws the IR map from kinect.
+Uses:
+	- PyOpenNI
+	- Pygame
+	- Numpy
